@@ -51,4 +51,4 @@ score = gets.chomp.to_i
 
 puts result
 
-
+# Works but if you enter a number greater than 10 or a negative number, output says "Unsuccessful".
